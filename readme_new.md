@@ -15,5 +15,5 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
     2. Answer to the problem above + script you wrote to solve it
     3. Brief introduction (who are you, why are you here, anything you’re specifically hoping to get out of the course)
 
-Here is the official [Python website](https://www.python.org)
+Here is the official [Python website](https://www.python.org).
 
